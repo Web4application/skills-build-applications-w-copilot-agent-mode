@@ -1,0 +1,10 @@
+{
+  "chat.tools.terminal.sandbox.macFileSystem": {
+    // Allow writes to the working directory
+    "allowWrite": ["."],
+    // Block writes to specific subdirectories
+    "denyWrite": ["./secrets/"],
+    // Block reads from specific paths
+    "denyRead": ["/etc/passwd"]
+  }
+}
