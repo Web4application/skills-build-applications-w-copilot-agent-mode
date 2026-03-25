@@ -1,0 +1,11 @@
+{
+  // Allow the `mkdir` command
+  "mkdir": true,
+  // Allow `git status` and commands starting with `git show`
+  "/^git (status|show\\b.*)$/": true,
+
+  // Block the `del` command
+  "del": false,
+  // Block any command containing "dangerous"
+  "/dangerous/": false
+}
