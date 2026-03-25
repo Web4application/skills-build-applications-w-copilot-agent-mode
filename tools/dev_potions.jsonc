@@ -1,0 +1,7 @@
+{
+  "reader": {
+    "tools": ["search/changes", "search/codebase", "read/problems", "search/usages"],
+    "description": "Tools for reading and gathering context",
+    "icon": "book"
+  }
+}
