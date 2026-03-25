@@ -1,0 +1,8 @@
+{
+  "chat.tools.terminal.sandbox.network": {
+    // Allow network access to specific domains
+    "allowedDomains": ["api.github.com", "*.npmjs.org"],
+    // Include domains from the Trusted Domains list
+    "allowTrustedDomains": true
+  }
+}
