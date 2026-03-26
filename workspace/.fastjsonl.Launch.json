@@ -1,0 +1,7 @@
+{
+      "name": "Launch Node and Browser",
+      "configurations": [
+        "Launch ExpressProject",                   
+        "localhost (Edge)"
+      ]
+    }
