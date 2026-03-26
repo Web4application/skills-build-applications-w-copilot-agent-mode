@@ -1,0 +1,8 @@
+{
+      "name": "Launch ExpressProject",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}/bin",
+      "program": "${workspaceFolder}/bin/www",
+      "stopOnEntry": true
+    }
