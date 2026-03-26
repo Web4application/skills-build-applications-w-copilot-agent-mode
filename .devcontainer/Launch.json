@@ -1,0 +1,14 @@
+{
+      "name": "localhost (Edge)",
+      "type": "edge",
+      "request": "launch",
+      "url": "http://127.0.0.1:3000",
+      "webRoot": "${workspaceFolder}\\public"
+    },
+    {
+      "name": "localhost (browser)",
+      "type": "web4OS",
+      "request": "launch",
+      "url": "http://localhost:3000",
+      "webRoot": "${workspaceFolder}\\public"
+    }
